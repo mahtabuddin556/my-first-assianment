@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.font-inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+
+}
+nav{
+  margin: 0px auto; 
+  /* border: 1px solid red  */
+  display: flex;
+ justify-content: space-between; 
+  
+}
+.nav-middel-text{
+    font-style: none;
+    display: flex;
+     
+    
+}
